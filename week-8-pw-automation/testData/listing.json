@@ -1,0 +1,13 @@
+{
+    "title": "Prince of Bel-Air",
+    "price": 1234567,
+    "minPrice": 900000,
+    "maxPrice": 1300000,
+    "bedrooms": 6,
+    "garage": 1,
+    "sqft": 6438,
+    "bathrooms": 4,
+    "city": "Los Angeles",
+    "State": "CA",
+    "zipCode": 90049
+}

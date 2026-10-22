@@ -1,0 +1,19 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+.DS_Store
+week-2-resume-website/
+week-3-js-algorithms/
+week-3.1-js-algorithms/
+week-4-js-algorithms/
+week-4.1-js-algorithms/
+week-4.2-js-algorithms/
+week-5-JS-chellenges/
+week-6-JS-Challenge/
+week-6.1-js-algorithms/
+week-7-playwright-automation/

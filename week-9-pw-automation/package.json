@@ -1,0 +1,19 @@
+{
+  "name": "week-9-pw-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.2"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "type": "module"
+}
